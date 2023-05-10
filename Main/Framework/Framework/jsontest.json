@@ -1,0 +1,15 @@
+{
+  "ObjCount": 1,
+  "obj1": 
+  {
+    "PhysicsComponent": 1,
+    "GraphicsComponent": 1,
+    "Name": "Obj_J",
+    "X": 6,
+    "Y": -2,
+    "Rotation": 0,
+    "Type": "b2_dynamicBody",
+    "W": 2,
+    "H": 2
+  }
+}
